@@ -10,9 +10,8 @@
 | Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 15 |
 | C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 2 |
 | Javascript | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#javascript-1) : 5 |
-| Python | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 2 |
-| D | Still Active : 0 < 
-[Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#d) : 1 |
+| Python | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 1 |
+| D | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#d) : 1 |
 | Lua | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#lua) : 1 |
 | Go | Still Active : 0 = [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#go-1) : 3 |
 | Rust | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#rust) : 2 |
