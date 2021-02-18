@@ -6,23 +6,23 @@
   
 | Language | Status |
 | ------ | ------ |
-| PHP | [Still Active]() : 0 < [Discontinued]() : 1 |
-| Java | [Still Active]() : 1 < [Discontinued]() : 2 |
-| Go | [Still Active]() : 1 < [Discontinued]() : 0 |
+| PHP | [Still Active] : 0 < [Discontinued] : 1 |
+| Java | [Still Active] : 1 < [Discontinued] : 2 |
+| Go | [Still Active] : 1 < [Discontinued] : 0 |
 
 ## Still Active (A-Z Order)
 
-### [Go]()
+### [Go]
 * __[portal](https://github.com/Paroxity/portal)__
  
-### [Java]()
+### [Java]
 * __[Nemisys](https://github.com/CloudburstMC/Nemisys)__
 
 ## Discontinued (A-Z Order)
 
-### [Java]()
+### [Java]
 * __[ProxProx](https://github.com/GamakCZ/ProxProx)__
 * __[Waterdog](https://github.com/yesdog/Waterdog)__
 
-### [PHP]()
+### [PHP]
 * __[AcidProxy](https://github.com/AcidProxy/Acid)__
