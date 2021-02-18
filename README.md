@@ -6,23 +6,23 @@
   
 | Language | Status |
 | ------ | ------ |
-| PHP | [Still Active] : 0 < [Discontinued] : 1 |
-| Java | [Still Active] : 1 < [Discontinued] : 2 |
-| Go | [Still Active] : 1 < [Discontinued] : 0 |
+| PHP | [Still Active](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md) : 0 < [Discontinued](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md) : 1 |
+| Java | [Still Active](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md) : 1 < [Discontinued](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md) : 2 |
+| Go | [Still Active](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md) : 1 < [Discontinued](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md) : 0 |
 
 ## Still Active (A-Z Order)
 
-### [Go]
+### [Go](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md)
 * __[portal](https://github.com/Paroxity/portal)__
  
-### [Java]
+### [Java](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md)
 * __[Nemisys](https://github.com/CloudburstMC/Nemisys)__
 
 ## Discontinued (A-Z Order)
 
-### [Java]
+### [Java](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md)
 * __[ProxProx](https://github.com/GamakCZ/ProxProx)__
 * __[Waterdog](https://github.com/yesdog/Waterdog)__
 
-### [PHP]
+### [PHP](https://github.com/SightlessDev/All-MCBE-Proxy/blob/master/README.md)
 * __[AcidProxy](https://github.com/AcidProxy/Acid)__
